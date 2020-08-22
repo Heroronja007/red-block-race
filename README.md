@@ -1,2 +1,2 @@
-# red-block-race
-idk
+# synchronousBallMovement
+Ball moving synchronously
